@@ -8,3 +8,6 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Thursday, 2019].
 Worked on ReactTacToe. https://github.com/Synsyxx/Reactactoe
 
 ### R1D2
+### Day 2: January 11th, 2019
+
+Started a platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
