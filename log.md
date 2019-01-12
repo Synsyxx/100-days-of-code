@@ -11,3 +11,9 @@
 **Today's Progress** Warmed up with some FCC work. Started a platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
 
 **Thoughts:** It was fun doing something a bit different and going back to the basics with JavaScript to reinforce some practices.
+
+### Day 3: January 12th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Got farther in to platformer, almost ready to display on page, will start adding controls soon: https://github.com/Synsyxx/stride
+
+**Thoughts:** While it's a simple game to start, I plan to add more later to see what I can turn it in to!

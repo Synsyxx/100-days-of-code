@@ -11,3 +11,8 @@ Worked on ReactTacToe. https://github.com/Synsyxx/Reactactoe
 ### Day 2: January 11th, 2019
 
 Started a platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
+
+### R1D3
+### Day 3: January 12th, 2019
+
+Continued work on platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
