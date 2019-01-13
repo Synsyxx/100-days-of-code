@@ -17,3 +17,11 @@
 **Today's Progress** Warmed up with some FCC work. Got farther in to platformer, almost ready to display on page, will start adding controls soon: https://github.com/Synsyxx/stride
 
 **Thoughts:** While it's a simple game to start, I plan to add more later to see what I can turn it in to!
+
+### Day 4: January 13th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Got farther in to platformer, almost ready to display on page, movements added for actors, working on controls for player
+https://github.com/Synsyxx/stride
+
+**Thoughts:** It's fun working on something quite different from web pages and web applications. Will probably start working on a platformer in UE4 soon.
+

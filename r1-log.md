@@ -16,3 +16,8 @@ Started a platform style game in vanilla JavaScript: https://github.com/Synsyxx/
 ### Day 3: January 12th, 2019
 
 Continued work on platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
+
+### R1D4
+### Day 4: January 13th, 2019
+
+Continued work on platform style game in vanilla JavaScript: https://github.com/Synsyxx/stride
