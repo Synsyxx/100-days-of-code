@@ -25,3 +25,10 @@ https://github.com/Synsyxx/stride
 
 **Thoughts:** It's fun working on something quite different from web pages and web applications. Will probably start working on a platformer in UE4 soon.
 
+### Day 5: January 14th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Game now displays on webpage properly. Got a few more bugs to work out before it is fully functioning.
+https://github.com/Synsyxx/stride
+
+**Thoughts:** Need to start blogging/writing out thought processes more to explain the way I do things better in interviews.
+
