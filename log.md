@@ -32,3 +32,11 @@ https://github.com/Synsyxx/stride
 
 **Thoughts:** Need to start blogging/writing out thought processes more to explain the way I do things better in interviews.
 
+### Day 6: January 15th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Game is now functional, at MVP. Will redesign over time possibly.
+https://github.com/Synsyxx/stride
+
+**Thoughts:** A Twitter post from today really sank in. It simply stated:
+"Stop trying to find the right way to do things and just do what works for you."
+I've always struggled with just _doing_ the thing. I need to break past that.
