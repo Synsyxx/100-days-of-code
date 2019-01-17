@@ -32,3 +32,8 @@ Continued work on platform style game in vanilla JavaScript: https://github.com/
 
 Bug fixes for game : https://github.com/Synsyxx/stride
 Also started experimenting with UE4
+
+### R1D7
+### Day 7: January 16th, 2019
+
+Tons of reading and learning today.
