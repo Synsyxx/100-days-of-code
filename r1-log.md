@@ -37,3 +37,10 @@ Also started experimenting with UE4
 ### Day 7: January 16th, 2019
 
 Tons of reading and learning today.
+General CSS designing on game: https://github.com/Synsyxx/stride
+
+### R1D8
+### Day 8: January 17th, 2019
+
+Finally getting back to work on my React/MaterialUI portfolio design!
+https://github.com/Synsyxx/travis-portfolio

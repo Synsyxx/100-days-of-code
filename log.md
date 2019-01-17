@@ -46,3 +46,9 @@ I've always struggled with just _doing_ the thing. I need to break past that.
 **Today's Progress** Warmed up with some FCC work. Today's work got lost in a deep dive in experimenting with MaterialUI and a rabbit hole of reading. I learned quite a bit, but made no git repositories unfortunately.
 
 **Thoughts:**  I believe some days you must set aside for deeper reading and learning to hammer down on new skills, so I will be implementing that in to the 100 Days of Code challenge once a week. These trainings will be used in the following week of work.
+
+### Day 8: January 17th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Spent some time diving back in to an old portfolio design using React and MaterialUI. Will spend this next week building out this portfolio and launching by next week.
+
+**Thoughts:**  I had to correct a few bugs from dependency issues with MaterialUI, which was the original reason I had stopped working on it. Looks like they corrected the issues so I can continue on with this project :)
