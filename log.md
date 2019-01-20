@@ -52,3 +52,15 @@ I've always struggled with just _doing_ the thing. I need to break past that.
 **Today's Progress** Warmed up with some FCC work. Spent some time diving back in to an old portfolio design using React and MaterialUI. Will spend this next week building out this portfolio and launching by next week.
 
 **Thoughts:**  I had to correct a few bugs from dependency issues with MaterialUI, which was the original reason I had stopped working on it. Looks like they corrected the issues so I can continue on with this project :)
+
+### Day 9: January 18th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Started messing around with the layout of the NavBar. Removed some things that weren't necessary.
+
+**Thoughts:**  Trying to imagine the purpose of the navbar for my portfolio. May scrap it in favor of some other thoughts. Really want it to reflect me and my personality and skillset moreso than trends in portfolio designs.
+
+### Day 10: January 19th, 2019
+
+**Today's Progress** Warmed up with some FCC work. Probably using very little MaterialUI in the build. We will see. Scrapped the NavBar for a card layout that I thought of. Worked on a wire frame for the plan and going full force through it.
+
+**Thoughts:**  Ran in to a hand full of issues and ended up uploading nonsense, so tomorrow is going to be a busy day.

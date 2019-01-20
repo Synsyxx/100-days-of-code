@@ -44,3 +44,15 @@ General CSS designing on game: https://github.com/Synsyxx/stride
 
 Finally getting back to work on my React/MaterialUI portfolio design!
 https://github.com/Synsyxx/travis-portfolio
+
+### R1D9
+### Day 9: January 18th, 2019
+
+Changed some things with the NavBar
+https://github.com/Synsyxx/travis-portfolio
+
+### R1D10
+### Day 10: January 19th, 2019
+
+Scrapped NavBar all-together... :D
+https://github.com/Synsyxx/travis-portfolio
